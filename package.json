@@ -1,0 +1,22 @@
+{
+  "name": "numguss-game",
+  "version": "1.0.5",
+  "description": "",
+  "main": "num.js",
+  "type": "module",
+  "bin": "num.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.18",
+    "numguss-game": "^1.0.2"
+  }
+}
